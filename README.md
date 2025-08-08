@@ -14,9 +14,11 @@
 - JavaScript
 - HTML/CSS
 
+![Скриншот приложения](./assets/screenshot.png)
+
 ## Запуск
 ```bash
 npm install
 npm run dev
 
-![Скриншот приложения](./assets/screenshot.png)
+
