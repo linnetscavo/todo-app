@@ -1,35 +1,18 @@
-# laba1
+# To-Do App (Vue 3)
 
-This template should help get you started developing with Vue 3 in Vite.
+Простое приложение для управления задачами, реализованное на **Vue 3**.
 
-## Recommended IDE Setup
+## Возможности
+- Добавление задач
+- Удаление задач
+- Отметка выполнения
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Технологии
+- Vue 3
+- JavaScript
+- HTML/CSS
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+## Запуск
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
