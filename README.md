@@ -14,7 +14,7 @@
 - JavaScript
 - HTML/CSS
 
-![Скриншот приложения](./assets/screenshot.png)
+![Скриншот приложения](./src/assets/screenshot.png)
 
 ## Запуск
 ```bash
